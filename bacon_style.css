@@ -1,0 +1,23 @@
+/**************TAG selectors***************/
+h2:hover {
+  color: gold;
+  font-size: 100px;
+}
+
+/**************CLASS selectors***************/
+.food {
+  background-color: green;
+}
+
+.meet {
+  background-color: blue;
+}
+
+.another_class{
+  border-radius: 100%;
+}
+
+/**************ID selectors***************/
+#heading {
+  color: blue;
+}
